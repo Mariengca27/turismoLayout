@@ -1,0 +1,27 @@
+*{
+margin: 0;
+padding:0; 
+box-sizing: border-box;
+
+}
+
+body{
+
+background-color: green;
+color: thistle;
+
+}
+
+
+
+:root{
+   --footer-color: rgb(20, 22, 173);
+
+}
+
+.container-page > .container-footer-page{
+    
+    color: var(--footer-color);
+    text-align: center;
+
+}
